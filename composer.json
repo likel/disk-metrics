@@ -1,5 +1,5 @@
 {
-    "name": "geowrgetudor/disk-metrics",
+    "name": "likel/disk-metrics",
     "description": "Monitor disk size, file & directory count for Laravel Pulse",
     "keywords": [
         "laravel",
